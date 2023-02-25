@@ -1,3 +1,4 @@
+```
         THE PLAINTEXT GOSPEL
 ===================================
 (Made for Apple Notes in monospace)
@@ -54,6 +55,4 @@
            ⎜ anyone our ⎟
            ⎜   little   ⎟
            ⎝   secret.  ⎠
-
-  ⎰ What do you mean     ⎱
-  ⎱ by "funny business?" ⎰
+```
