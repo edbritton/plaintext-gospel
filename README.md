@@ -1,2 +1,59 @@
-# plaintext-gospel
-A few tools useful for those who prefer plaintext.
+        THE PLAINTEXT GOSPEL
+===================================
+(Made for Apple Notes in monospace)
+
+╭──────────────────────────╮
+│ ×       QUESTION         │░
+╞══════════════════════════╡░
+│ Hello, would you like to │░
+│ listen to my podcast?    │░
+│                          │░
+│ ╭───────────╮ ╭────────╮ │░
+│ │ SUBSCRIBE │ │ CANCEL │ │░
+│ ╰───────────╯ ╰────────╯ │░
+╰──────────────────────────╯░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+╭──────┬────────┬─────────────╮
+│ DATE │ AMOUNT │ DESCRIPTION │
+╞══════╪════════╪═════════════╡
+│ 24.3 │  A$100 │ Food        │
+├──────┼────────┼─────────────┤
+│ 20.3 │   A$50 │ Booze!      │
+╰──────┴────────┴─────────────╯
+
+┌──────┬────────┬─────────────┐
+│ DATE │ AMOUNT │ DESCRIPTION │
+╞══════╪════════╪═════════════╡
+│ 24.3 │  A$100 │ Food        │
+├──────┼────────┼─────────────┤
+│ 20.3 │   A$50 │ Booze!      │
+└──────┴────────┴─────────────┘
+
+┌──────┬────────┬─────────────┐
+│ DATE │ AMOUNT │ DESCRIPTION │
+╞══════╪════════╪═════════════╡
+│ 24.3 │  A$100 │ Food ⎫      │
+│ 24.3 │  A$100 │ Food ⎬ Food │
+│ 24.3 │  A$100 │ Food ⎪      │
+│ 24.3 │  A$100 │ Food ⎭      │
+│ 20.3 │   A$50 │ Booze!      │
+└──────┴────────┴─────────────┘
+
+┌─┬┐  ╔═╦╗  ╓─╥╖  ╒═╤╕
+│ ││  ║ ║║  ║ ║║  │ ││
+├─┼┤  ╠═╬╣  ╟─╫╢  ╞═╪╡
+└─┴┘  ╚═╩╝  ╙─╨╜  ╘═╧╛
+
+⎡ Something is ⎫   ⎧ Once more  ⎤
+⎢ rotten       ⎬ ? ⎨ with       ⎥
+⎢ in the state ⎪   ⎩ feeling?   ⎥
+⎣ of Denmark.  ⎭                ⎦
+
+           ⎛ Don't tell ⎞
+           ⎜ anyone our ⎟
+           ⎜   little   ⎟
+           ⎝   secret.  ⎠
+
+  ⎰ What do you mean     ⎱
+  ⎱ by "funny business?" ⎰
